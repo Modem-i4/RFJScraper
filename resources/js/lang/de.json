@@ -1,0 +1,58 @@
+{
+
+    "Categories" : "Kategorien",
+    "Posts" : "Beiträge",
+    "Profiles" : "Profile",
+    "Settings" : "Einstellungen",
+    "Users" : "Benutzer",
+
+    "Add a category" : "Kategorie hinzufügen",
+    "New category name" : "Name der neuen Kategorie",
+    "Search" : "Suchen",
+    "Watch a new profile" : "Neues Profil beobachten",
+    "New profile URL" : "Profil URL",
+
+    "id" : "ID",
+    "name" : "Name",
+    "total" : "Summe",
+    "display" : "Anzeigen",
+    "profile" : "Profile",
+    "Name" : "Name",
+    "Text" : "Text",
+    "Images" : "Bilder",
+    "Date" : "Datum",
+    "Important" : "Wichtig",
+    "Account" : "Quelle",
+    "Last publish" : "Letzter Beitrag",
+    "Saved posts" : "Gespeicherte Beiträge",
+    "Watched" : "Überwachung aktiv",
+    "Setting" : "Einstellungen",
+    "Value (minutes)" : "Minuten",
+    "Default value" : "Standardeinstellung",
+    "Save" : "Speichern",
+    "E-mail" : "E-Mail",
+    "Role" : "Rolle",
+    "Registration" : "Registrierdatum",
+    "News Notifications" : "Benachrichtigung",
+	"Add to a category" : "Zur Kategorie hinzufügen",
+
+    "Category name is too short" : "Kategorie ist zu kurz",
+    "This category already exist" : "Kategorie existiert bereits",
+    "Enter a valid URL" : "URL ist ungültig",
+    "Link must lead to a profile" : "URL muss in Profil sein",
+    "Already in db" : "Profil befindet sich schon in der Datenbank",
+    "Parse or server error. Try later" : "Analyse- oder Serverfehler. Versuche es später",
+
+    "facebook_api_check_period" : "Facebook API Check-Zeitraum",
+    "instagram_api_check_period" : "Instagram API Check-Zeitraum",
+    "twitter_api_check_period" : "Twitter API Check-Zeitraum",
+    "facebook_browser_check_period" : "Facebook Browser Check-Zeitraum",
+    "instagram_browser_check_period" : "Instagram Browser Check-Zeitraum",
+    "sleep_over_night" : "Nachtmodus (Scrap-Zeitraum)",
+    "sleep_from" : "Nachtmodus von",
+    "sleep_to" : "Nachtmodus bis",
+    "facebook_stories_check_period" : "Facebook Story Check-Zeitraum",
+    "instagram_stories_check_period" : "Instagram Story Check-Zeitraum"
+}
+
+

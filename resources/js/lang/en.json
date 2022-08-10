@@ -1,0 +1,57 @@
+{
+
+    "Categories" : "Categories",
+    "Posts" : "Posts",
+    "Profiles" : "Profiles",
+    "Settings" : "Settings",
+    "Users" : "Users",
+
+    "Add a category" : "Add a category",
+    "New category name" : "New category name",
+    "Search" : "Search",
+    "Watch a new profile" : "Watch a new profile",
+    "New profile URL" : "New profile URL",
+
+    "id" : "id",
+    "name" : "name",
+    "total" : "total",
+    "display" : "display",
+    "profile" : "profile",
+    "Name" : "Name",
+    "Text" : "Text",
+    "Images" : "Images",
+    "Date" : "Date",
+    "Important" : "Important",
+    "Account" : "Account",
+    "Last publish" : "Last publish",
+    "Saved posts" : "Saved posts",
+    "Watched" : "Watched",
+    "Setting" : "Setting",
+    "Value (minutes)" : "Value (minutes)",
+    "Default value" : "Default value",
+    "Save" : "Save",
+    "E-mail" : "E-mail",
+    "Role" : "Role",
+    "Registration" : "Registration",
+    "News Notifications" : "News Notifications",
+
+    "Category name is too short" : "Category name is too short",
+    "This category already exist" : "This category already exist",
+    "Enter a valid URL" : "Enter a valid URL",
+    "Link must lead to a profile" : "Link must lead to a profile",
+    "Already in db" : "Already in db",
+    "Parse or server error. Try later" : "Parse or server error. Try later",
+
+    "facebook_api_check_period" : "Facebook API check period",
+    "instagram_api_check_period" : "Instagram API check period",
+    "twitter_api_check_period" : "Twitter check API check period",
+    "facebook_browser_check_period" : "Facebook browser check period",
+    "instagram_browser_check_period" : "Instagram browser check period",
+    "sleep_over_night" : "Sleep over night(yes or no)",
+    "sleep_from" : "Sleep from(hour)",
+    "sleep_to" : "Sleep to(hour)",
+    "facebook_stories_check_period" : "Facebook stories check period",
+    "instagram_stories_check_period" : "Instagram stories check period"
+}
+
+
